@@ -22,3 +22,6 @@
 - node index.js
 
 <hr>
+
+<h3>How to use the App?</h3>
+##In progress
