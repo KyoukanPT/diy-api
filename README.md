@@ -13,3 +13,12 @@
 - Download and install <a href="https://nodejs.org/en/download"> Node.js </a> <br>
 
 <hr>
+
+<h3>Project Folder Directory (Terminal)</h3>
+- npm install <br>
+- npm install <a href="https://expressjs.com/en/starter/installing.html"> Express </a> <br>
+- npm install <a href="https://ejs.co/"> EJS </a> <br>
+- npm install <a href="https://www.npmjs.com/package/body-parser"> Body Parser </a> <br>
+- node index.js
+
+<hr>
