@@ -25,7 +25,7 @@
 
 <h3>How to use the App?</h3>
 <p> - After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. </p>
-<p> - <a href="http://localhost:3000/random> Random joke > Generates a new random joke.
+<p> - <a href="http://localhost:3000/random> Random joke > Generates a new random joke. </p>
 <p> - <a href="http://localhost:3000/23 > Specific joke > Generates the joke number 23. You can replace "23" by any number you want, under 101.</p>
 
 <h4> You'll need to use <a href="https://www.postman.com/downloads/"> Postman </a> for API testing. </h4>
