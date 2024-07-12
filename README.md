@@ -32,3 +32,5 @@
 <p> - <b> Method: </b> "POST" // <b> URL: </b> http://localhost:3000/jokes >> <em> Creates a new joke.</em></p>
 <p> - <b> Method: </b> "PUT" // <b> URL: </b> http://localhost:3000/joke/23 >> <em> Replaces a specific joke (You can replace "23" by any number you want, under 101).</em></p>
 <p> - <b> Method: </b> "PATCH" // <b> URL: </b> http://localhost:3000/joke/23 >> <em> Edits a specific joke (You can replace "23" by any number you want, under 101).</em></p>
+<p> - <b> Method: </b> "DELETE" // <b> URL: </b> http://localhost:3000/joke/23 >> <em> Deletes a specific joke (You can replace "23" by any number you want, under 101).</em></p>
+<p> - <b> Method: </b> "DELETES" // <b> URL: </b> http://localhost:3000/jokes/all >> <em> Deletes all jokes.</em></p>
