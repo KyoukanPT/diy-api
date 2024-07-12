@@ -29,5 +29,6 @@
 <p> - <a href="http://localhost:3000/23" > Specific joke </a> > Generates the joke number 23. You can replace "23" by any number you want, under 101.</p>
 
 <h4> You'll need to use <a href="https://www.postman.com/downloads/"> Postman </a> for API testing. </h4>
-<p> - <b> Method: </b> "POST" // <b> URL: </b> http://localhost:3000/jokes >> <em> Create a new joke.</em></p>
-<p> - <b> Method: </b> "PUT" // <b> URL: </b> http://localhost:3000/joke/23 >> <em> Replace a specific joke (You can replace "23" by any number you want, under 101).</em></p>
+<p> - <b> Method: </b> "POST" // <b> URL: </b> http://localhost:3000/jokes >> <em> Creates a new joke.</em></p>
+<p> - <b> Method: </b> "PUT" // <b> URL: </b> http://localhost:3000/joke/23 >> <em> Replaces a specific joke (You can replace "23" by any number you want, under 101).</em></p>
+<p> - <b> Method: </b> "PATCH" // <b> URL: </b> http://localhost:3000/joke/23 >> <em> Edits a specific joke (You can replace "23" by any number you want, under 101).</em></p>
