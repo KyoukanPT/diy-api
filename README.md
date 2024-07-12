@@ -30,4 +30,4 @@
 
 <h4> You'll need to use <a href="https://www.postman.com/downloads/"> Postman </a> for API testing. </h4>
 <p> - <b> Method: </b> "POST" // <b> URL: </b> http://localhost:3000/jokes >> <em> Create a new joke</em></p>
-<p> - <b> Method: </b> "PUT" // <b> URL: </b> http://localhost:3000/joke/23 >> <em> Replace a specific joke</em></p>
+<p> - <b> Method: </b> "PUT" // <b> URL: </b> http://localhost:3000/joke/23 >> <em> Replace a specific joke (You can replace "23" by any number you want, under 101).</em></p>
